@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ImprovId Perth memfasilitasi process improvement di sektor publk dan relawan
 
-### More Information
+### Siapa anggota improvId Perth?
 
-A place to include any other types of information that you'd like to include about yourself. 
+Tim fasilitatir improvId Perth terdiri dari praktisi process improvement yang berdomisili di Perth.
+Tim improvId Perth merupakan gabungan dari responden warga Indonesia di Perth (Customer), penyelenggara sektor publik dan relawan (Producer).
 
-### Contact me
+### Contact us
 
-[email@domain.com](mailto:email@domain.com)
+[improvidperth@gmail.com](mailto:improvidperth@gmail.com)
