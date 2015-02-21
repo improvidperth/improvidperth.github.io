@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Siapa ImprovId Perth?
-permalink: /about/
+permalink: /siapa/
 ---
 
 ImprovId Perth memfasilitasi process improvement di sektor publk dan relawan
