@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pertemuan Pertama: Identifikasi Masalah
+title: Pertemuan Pertama Identifikasi Masalah
 permalink: /pemilufirstmeeting/
 ---
 

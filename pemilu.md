@@ -4,7 +4,7 @@ title: Belajar dari Pemilu Perth 2014?
 permalink: /pemilu/
 ---
 
-ImprovId Perth memfasilitasi process improvement di sektor publk dan relawan
+ImprovId Perth memfasilitasi process improvement di sektor publik dan relawan
 
 ### Siapa anggota improvId Perth?
 
