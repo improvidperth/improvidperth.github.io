@@ -1,16 +1,27 @@
 ---
 layout: page
-title: Belajar dari Pemilu Perth 2014?
+title: Belajar dari Pemilu Perth 2014
 permalink: /pemilu/
 ---
 
-ImprovId Perth memfasilitasi process improvement di sektor publik dan relawan
+### Intro
+Penyelenggaraan Pemilu Legislatif dan Eksekutif 2014 di Perth sudah berlangsung dengan sukses. 
 
-### Siapa anggota improvId Perth?
+### Tim Fasilitator
+Tim fasilitator ImprovId Perth terdiri dari wakil warga yang berkutat di bidang process improvemet. Mereka adalah:
+- Budi Awan
+- Hendro Fujiono
+- Arthur Panggabean 
+- Bernard Tampubolon
 
-Tim fasilitator improvId Perth terdiri dari praktisi process improvement yang berdomisili di Perth.
-Tim improvId Perth merupakan gabungan dari responden warga Indonesia di Perth (Customer), penyelenggara sektor publik dan relawan (Producer).
+### Metodologi
+Metodologi yang dipakai dapat digambarkan sebagai berikut
 
-### Contact us
+### Wawancara Responden (Voice of Customer)
 
-[improvidperth@gmail.com](mailto:improvidperth@gmail.com)
+### Analisis dengan penyelenggara pemilu (Voice of Producer)
+
+### Hasil analisis
+
+### Implementasi
+

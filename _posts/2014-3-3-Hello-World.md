@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Belajar dari PEMILU 2014 di Perth
+title: Kolaborasi rakyat dan penyelenggara publik
 ---
-
-What is it?
+Apa yang membedakan organisasi penyelenggara publik (public service) dan swasta? 
