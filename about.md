@@ -13,6 +13,8 @@ Berkontribusi tidak selalu berarti menyelesaikan persoalan besar. Apabila banyak
 
 Dokumentasi _best practive_ yang terbuka untuk publik sangat penting agar hal-hal yang baik bisa diulangi di masa depan dan ditiru oleh orang lain. Juga hal-hal yang buruk bisa dihindari supaya tidak terulang. Semua kegiatan analisis ImprovId akan dibuat terbuka untuk publik melalui situs ImprovId. 
 
+_Continuous improvement_/_no silver bullet_. Tidak realistis mengharapkan solusi yang bisa menyelesaikan **semua** masalah. Yang terpenting adalah kebiasaan untuk terus mencari cara yang lebih baik.
+
 ## Siapa ImprovId?
 Tim ImprovId adalah profesional di bidang _process improvement_, termasuk di antaranya konsultan lean dan six sigma, _business analyst_, konsultan manajemen, data analyst, dll. Tim ImprovId bersifat sukarela dan imparsial.
 
