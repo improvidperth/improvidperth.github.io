@@ -8,8 +8,8 @@ permalink: /pemilu/
 Penyelenggaraan Pemilu 2014 di Perth baik untuk Pemilu Legislatif (PiLeg) ataupun Pemilu Presiden (PilPres) berjalan dengan sangat baik. Apresiasi untuk tim panitia penyelenggara (PPLN Perth) dengan pimpinan bapak George Wenur dan seluruh jajaran KJRI Perth.
 
 Ada dua hal yang menjadi pemikiran tim ImprovId baik untuk ditindaklanjuti:
-- Keberhasilan ini sepatutnya didokumentasikan supaya dapat dimanfaatkan dalam penyelenggaraan ke depan. Satu hal yang unik dari penyelenggaraan Pemilu di luar negeri adalah pergerakan massa yang dinamis, keluar dan masuk Perth, baik masyarakat maupun KJRI. Tanpa dokumentasi yang baik, praktik yang baik bisa terlupakan dan hal yang kurang baik bisa terulangi di masa depan.
-- Selalu ada ruang untuk perbaikan di masa depan. Dalam dunia korporasi, kegiatan untuk mengidentifikasi perbaikan merupakan hal yang sangat penting. Motivasi utamanya adalah untuk bisa menghasilkan keuntungan yang lebih lagi di masa depan. Dalam dunia pelayanan publik atau kegiatan yang bersifat non-profit seperti penyelenggaraan pemilu, motivasi dan idealisme untuk bisa memberikan yang terbaik untuk bangsa Indonesia dapat menjadi pemicu proses identifikasi perbaikan Pemilu di masa depan.
+* Keberhasilan ini sepatutnya didokumentasikan supaya dapat dimanfaatkan dalam penyelenggaraan ke depan. Satu hal yang unik dari penyelenggaraan Pemilu di luar negeri adalah pergerakan massa yang dinamis, keluar dan masuk Perth, baik masyarakat maupun KJRI. Tanpa dokumentasi yang baik, praktik yang baik bisa terlupakan dan hal yang kurang baik bisa terulangi di masa depan.
+* Selalu ada ruang untuk perbaikan di masa depan. Dalam dunia korporasi, kegiatan untuk mengidentifikasi perbaikan merupakan hal yang sangat penting. Motivasi utamanya adalah untuk bisa menghasilkan keuntungan yang lebih lagi di masa depan. Dalam dunia pelayanan publik atau kegiatan yang bersifat non-profit seperti penyelenggaraan pemilu, motivasi dan idealisme untuk bisa memberikan yang terbaik untuk bangsa Indonesia dapat menjadi pemicu proses identifikasi perbaikan Pemilu di masa depan.
 
 
 ### Peserta Kolaborasi:
@@ -37,8 +37,8 @@ Ada dua hal yang menjadi pemikiran tim ImprovId baik untuk ditindaklanjuti:
 * Arthur Panggabean
 
 #### Warga Indonesia di Parth
-- Responden Wawancara
-- Wakil Simpul Masyarakat
+* Responden Wawancara
+* Wakil Simpul Masyarakat
 
 ### Metodologi
 ![image cannot be rendered]({{ site.baseurl }}/images/metodologi.PNG)
@@ -50,8 +50,8 @@ Time ImprovId memulai proses ini dengan mewawancarai 26 orang pemilih di Perth d
 Wawancara dilakukan dengan teknik eksplorasi. Teknik ini menghindari pewawancara mempengaruhi opini responden menuju kesimpulan yang diinginkan pewawancara.
 
 Tiga pertanyaan utama:
-* Kapan responden pertama mendengar tentang Pemilu 2014 di Perth,
-* Kapan interaksi terakhir responden dalam Pemilu 2014 di Perth,
+* Kapan responden pertama mendengar tentang Pemilu 2014 di Perth
+* Kapan interaksi terakhir responden dalam Pemilu 2014 di Perth
 * Semua proses di antara kedua waktu di atas.
 
 Hasil wawancara dapat dilihat [di sini.](http://improvidperth.github.io/pemilu/) (nama responden tidak ditampilkan).
@@ -61,14 +61,17 @@ Hasil wawancara dapat dilihat [di sini.](http://improvidperth.github.io/pemilu/)
 Sembilan isu utama (_pain points_) dari pemilih di Perth disarikan dari hasil wawancara. Dengan bermodalkan ini, tim ImprovId bersama dengan KJRI Perth dan tim penyelenggara pemilu (_voice of producer_) mengadakan diskusi kerja membahas isu ini.
 
 Diskusi pertama berlangsung pada 26 September 2014. Dalam diskusi ini, semua isu dibahas dan diklarifikasi untuk memastikan semua adalah isu yang valid menurut perspektif. Hasil diskusi ini adalah penentuan prioritas isu sebagai berikut:
+
 #### Prioritas Tinggi
 * Pemilih tidak menerima undangan
 *Komunikasi tidak menjangkau (coverage)
+
 #### Prioritas Sedang
 * Antrian lama di TPS (khusus PilPres)
 * Isu tidak tercakup dalam komunikasi (missing content)
 * Keharusan konfirmasi DPT dua kali
-##### Prioritas Rendah
+
+#### Prioritas Rendah
 * Tanpa formulir hanya boleh memilih setelah jam 5 sore
 * Pemilih lewat surat tidak menerima konfirmasi surat suara sudah diterima
 * Persentase suara tidak sah yang diterima melalui surat 6.5%
