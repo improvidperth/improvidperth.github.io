@@ -23,11 +23,13 @@ Peribahasa "Gajah di pelupuk mata tak tampak, semut di seberang lautan tampak" s
 
 Tim improvId bukanlah sumber solusi. Fungsi utama tim ImprovId adalah memfasilitasi pihak penyelenggara pelayanan publik untuk dapat menemukan _pain points_ dari pengguna pelayanan publik tersebut (warga masyarakat Indonesia), mencari akar permasalahan, dan mencari solusi yang sesuai. 
 
-## Contoh kegiatan publik yang bisa dianalisis
-* Kenapa antrian di puskesmas lama dan tidak teratur
-* Kenapa waktu pemilihan bupati banyak warga tidak terdaftar sebagai pemilih
-* Kenapa sampah di daerah X selalu menumpuk dan mengeluarkan bau
+## Proses yang bisa dianalisis bisa yang menyangkut pelayanan public ataupun proses internal di organisasi pelayanan public sendiri, misalnya:
+* Kenapa perijinan di kantor X memakan waktu y minggu
+* Kenapa karyawan kantor BUMN Y harus bekerja lebih dari 10 jam sehari
+* Kenapa antrian di puskesmas A lama dan tidak teratur
+* Kenapa sampah di daerah Y selalu menumpuk dan mengeluarkan bau
 
+Proses yang dipilih harus spesifik dengan pemakai proses dan perlaksana proses yang jelas.
 
 ## Hubungi Kami
-Apabila anda profesional dalam _process improvement_ yang tertarik dengan misi ImprovId atau penyelenggara pelayanan publik yang tertarik untuk berkolaborasi dengan tim ImprovId, hubungi kami di [improvidperth@gmail.com](mailto:improvidperth@gmail.com) atau melalui forum diskusi di bawah ini.
+Apabila anda profesional _process improvement_ yang tertarik dengan misi ImprovId atau penyelenggara pelayanan publik yang tertarik untuk berkolaborasi dengan tim ImprovId, hubungi kami di [improvidperth@gmail.com](mailto:improvidperth@gmail.com) atau melalui forum diskusi di bawah ini.
