@@ -76,8 +76,8 @@ Diskusi pertama berlangsung pada 26 September 2014. Dalam diskusi ini, semua isu
 * Pemilih lewat surat tidak menerima konfirmasi surat suara sudah diterima
 * Persentase suara tidak sah yang diterima melalui surat 6.5%
 
-### Analisis Penyebab Utama (Root Cause Analysis)
-Analisis akar masalah (root cause analysis) dilakukan dalam diskusi kerja kedua pada 14 Oktober 2014. Peserta diskusi sepakat pembahasan dilakukan untuk issue paling prioritas yaitu adanya (banyak) pemilih yang mengklaim tidak menerima undangan.
+### Analisis Akar Masalah (_Root Cause Analysis_)
+Analisis akar masalah dilakukan dalam diskusi kerja kedua pada 14 Oktober 2014. Peserta diskusi sepakat pembahasan dilakukan untuk issue paling prioritas yaitu adanya (banyak) pemilih yang mengklaim tidak menerima undangan.
 
 Diskusi menggunakan metode diagram Ishikawa (_fishbone diagram_) yang diperkenalkan oleh Kaoru Ishikawa (1968). Metode ini dikombinasikan dengan metode “5 kenapa” (5 why?) untuk memastikan analisis terfokus untuk mencapai akar masalah. Interaksi yang terjadi selama diskusi menunjukkan nilai positif keikutsertaan penyelenggara pemilu sendiri dalam menganalisis aktifitas yang telah terjadi.
 
