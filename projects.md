@@ -21,7 +21,7 @@ Akar Masalah:
 ![image cannot be rendered]({{ site.baseurl }}/images/rootcause_summary.PNG)
 
 Potensi Solusi:
-![image cannot be rendered]({{ site.baseurl }}/images/potensi_solusi.PNG)
+![image cannot be rendered]({{ site.baseurl }}/images/potensi_solusi.png)
 
 Follow up:
 
