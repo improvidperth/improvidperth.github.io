@@ -9,10 +9,11 @@ Penyelenggaraan Pemilu Legislatif dan Eksekutif 2014 di Perth sudah berlangsung 
 
 ### Tim Fasilitator
 Tim fasilitator ImprovId Perth terdiri dari wakil warga yang berkutat di bidang process improvement. Mereka adalah:
-- Budi Awan
-- Hendro Fujiono
-- Arthur Panggabean 
-- Bernard Tampubolon
+
+* Budi Awan
+* Hendro Fujiono
+* Arthur Panggabean 
+* Bernard Tampubolon
 
 ### Metodologi
 Metodologi yang dipakai dapat digambarkan sebagai berikut
