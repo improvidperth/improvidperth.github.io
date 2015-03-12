@@ -4,7 +4,7 @@ title: Belajar dari Pemilu Perth 2014
 permalink: /pemilu/
 ---
 
-### Intro
+## Kenapa Analisis Pemilu?
 Penyelenggaraan Pemilu 2014 di Perth baik untuk Pemilu Legislatif (PiLeg) ataupun Pemilu Presiden (PilPres) berjalan dengan sangat baik. Apresiasi untuk tim panitia penyelenggara (PPLN Perth) dengan pimpinan bapak George Wenur dan seluruh jajaran KJRI Perth.
 
 Ada dua hal yang menjadi pemikiran tim ImprovId baik untuk ditindaklanjuti:
@@ -41,10 +41,10 @@ Ada dua hal yang menjadi pemikiran tim ImprovId baik untuk ditindaklanjuti:
 * Responden Wawancara
 * Wakil Simpul Masyarakat
 
-### Metodologi
+## Metodologi
 ![image cannot be rendered]({{ site.baseurl }}/images/metodologi.PNG)
 
-#### Voice of Customer
+### Voice of Customer
 Suara pemakai proses (Voice of Customer) merupakan sumber informasi awal analisis.
 
 Time ImprovId memulai proses ini dengan mewawancarai 26 orang pemilih di Perth dari berbagai lapisan masyarakat.
@@ -115,6 +115,4 @@ Tema ini mencakup:
 * Analisis biaya manfaat, misalnya pengiriman undangan dengan pos biasa (lebih murah) menyebabkan panitia tidak mendapat masukan apabila ada surat yang tidak mencapai tujuan. Pos tercatat, walaupun lebih mahal, akan lebih optimal hasilnya.
 * Masukan kepada KPU untuk penyelenggaraan tahun 2019, terutama mencakup masalah anggaran dan waktu untuk perencanaan.
 
-
-Gambar 5. Tiga Tema Alternatif Solusi
 
