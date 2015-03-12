@@ -27,9 +27,9 @@ Kegiatan ini membuktikan kolaborasi masyarakat dan KJRI Perth sebagai penyelengg
 * Penetapan 1 issue utama: “calon pemilih tidak menerima undangan Pemilu”
 * Identifikasi 11 akar masalah 
 * Identifikasi 3 potential solusi berdasarkan akar masalah yang telah ditemukan:
-- Perbaikan pengelolaan data WNI di Perth
-- Perbaikan interaksi dua arah antara masyarakat dan KJRI Perth
-- Dokumentasi best practice
+  - Perbaikan pengelolaan data WNI di Perth
+  - Perbaikan interaksi dua arah antara masyarakat dan KJRI Perth
+  - Dokumentasi best practice
 * Identifikasi manfaat untuk tim konsuler KJRI apabila potensi solusi diimplementasikan
 * Identifikasi manfaat untuk simpul masyarakat di Perth apabila potensi solusi diimplementasikan
 
