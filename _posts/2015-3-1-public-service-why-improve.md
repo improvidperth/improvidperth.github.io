@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Why Improve
+title: Who is your customer?
 ---
+
 Apa yang menjadi motivasi di dunia korporasi untuk melakukan kegiatan perbaikan proses (_process improvement_)? Umumnya perusahaan swasta dipacu oleh keinginan mendapatkan pemasukan (_revenue_) atau keuntungan (_profit_) sebanyak-banyaknya. 
 
 Apakah ini berarti tidak ada motivasi untuk organisasi pelayanan public untuk melakukan kegiatan perbaikan?
