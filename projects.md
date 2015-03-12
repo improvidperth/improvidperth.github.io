@@ -4,8 +4,9 @@ title: Project List
 permalink: /projects/
 ---
 
+----
 ## Analisis Pemilu 2014 di Perth
-###Status: COMPLETED
+### Status: COMPLETED
 
 ![image cannot be rendered]({{ site.baseurl }}/images/metodologi.PNG)
 
@@ -36,4 +37,6 @@ Tim kolaborasi setelah berdiskusi mencari akar masalah merumuskan potensi solusi
 
 ## Pembuatan Sistem Pendataaan Warga dan Simpul Masyarakat di Perth
 
-*Status: IN-PROGRESS*
+### Status: IN-PROGRESS*
+
+----
