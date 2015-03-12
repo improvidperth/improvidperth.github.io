@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daftar Kegiatan yang Sudah dan Sedang Berlangsung
+title: Project List
 permalink: /projects/
 ---
 
@@ -30,6 +30,8 @@ Tim kolaborasi setelah berdiskusi mencari akar masalah merumuskan potensi solusi
 
 
 #### Untuk cerita lebih lengkap bisa dibaca [di sini.](http://improvidperth.github.io/pemilu/)
+
+----
 
 
 ## Pembuatan Sistem Pendataaan Warga dan Simpul Masyarakat di Perth
