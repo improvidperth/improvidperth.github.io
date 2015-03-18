@@ -8,7 +8,7 @@ permalink: /projects/
 ## Analisis Pemilu 2014 di Perth
 ### Status: COMPLETED
 
-![image cannot be rendered]({{ site.baseurl }}/images/all_workshop.PNG)
+![image cannot be rendered]({{ site.baseurl }}/images/all_workshop.jpg)
 
 ### Latar Belakang
 Identifikasi _pain points_ dari pemilih Pemilu 2014 di Perth, identifikasi akar masalah, dan potensi solusi terhadap masalah tersebut.
