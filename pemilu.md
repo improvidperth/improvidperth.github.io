@@ -42,7 +42,7 @@ Ada dua hal yang menjadi pemikiran tim ImprovId baik untuk ditindaklanjuti:
 * Wakil Simpul Masyarakat
 
 ## Metodologi
-![image cannot be rendered]({{ site.baseurl }}/images/metodologi.PNG)
+![image cannot be rendered]({{ site.baseurl }}/images/metodologi.jpg)
 
 ### Voice of Customer
 Suara pemakai proses (Voice of Customer) merupakan sumber informasi awal analisis.
