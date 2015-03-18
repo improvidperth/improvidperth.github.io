@@ -46,6 +46,24 @@ Kegiatan ini membuktikan kolaborasi masyarakat dan KJRI Perth sebagai penyelengg
 
 ## Pembuatan Sistem Pendataaan Warga dan Simpul Masyarakat di Perth
 
-### Status: IN-PROGRESS*
+### Status: IN-PROGRESS
+
+### Latar Belakang
+Kegiatan ini adalah implementasi dari rekomendasi proses analisis Pemilu 2014 di Perth. Laporan lengkap bisa dilihat [di sini.](http://improvidperth.github.io/pemilu/). Beberapa warga Indonesia di Perth yang berkecimpung di industri teknologi informasi sepakat untuk membuat sistem pendataan warga dan simpul masyarakat di Perth.
+
+Sistem pendataan mencakup:
+- pembuatan aplikasi _online_ (situs _online_).
+- perancangan sistem interaksi antara warga - simpul masyarakat - KJRI Perth menggunakan aplikasi online.
+
+Kriteria rancangan:
+- Proses dan sistem harus memberi manfaat bagi masyarakat dan simpul masyarakat.
+- Proses dan sistem harus mudah digunakan (_user friendly_).
+- Proses dan sistem harus menghormati kerahasiaan data (privacy).
+
+Kegiatan pembuatan situs dimulai pada Februari 2015 dengan tim kecil yang terdiri dari 5 orang.
+
+Target pada April 2015, prototipe dari situs online sudah bisa dicoba oleh sekelompok warga atau simpul masyarakat untuk mendapatkan masukan mengenai kemudahan penggunaan dan kelengkapan fitur. 
+
+#### Untuk informasi lebih lengkap, silakan mengirimkan e-mail ke improvidperth@gmail.com
 
 ----
