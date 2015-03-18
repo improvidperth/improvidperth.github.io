@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_wo_discuss
 title: Project List
 permalink: /projects/
 ---
@@ -13,11 +13,11 @@ permalink: /projects/
 ### Latar Belakang
 Identifikasi _pain points_ dari pemilih Pemilu 2014 di Perth, identifikasi akar masalah, dan potensi solusi terhadap masalah tersebut.
 
-Kolaborasi antara tim ImprovId, KJRI Perth, dan mantan panitia Pemilu Perth 2014 (PPLN, KPPSLN, PANWASLU) dan berlangsung dari Juli 2014 sampai Desember 2014.
+Kolaborasi antara tim ImprovId, KJRI Perth, dan mantan panitia Pemilu Perth 2014 (PPLN, KPPSLN, Panwaslu). Proses analisis berlangsung dari Juli 2014 sampai Desember 2014.
 
 ### Rangkuman Kegiatan
 Apresiasi
-Kegiatan ini membuktikan itikad baik dari KJRI Perth untuk memfasilitasi proses diskusi mencari peluang perbaikan proses penyelenggaraan pemilu di Perth.
+Kegiatan ini membuktikan dukungan dari KJRI Perth untuk memfasilitasi proses diskusi mencari peluang perbaikan proses penyelenggaraan pemilu di Perth.
 Kegiatan ini membuktikan kolaborasi masyarakat dan KJRI Perth sebagai penyelenggara layanan publik bisa diwujudkan.
 
 
