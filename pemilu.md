@@ -67,16 +67,17 @@ Diskusi pertama berlangsung pada 26 September 2014. Dalam diskusi ini, semua isu
 #### Prioritas Tinggi
 
 * Pemilih tidak menerima undangan
-* Komunikasi tidak menjangkau (coverage)
+* Komunikasi tidak menjangkau (_coverage_)
 
 #### Prioritas Sedang
 
 * Antrian lama di TPS (khusus PilPres)
-* Isu tidak tercakup dalam komunikasi (missing content)
-* Keharusan konfirmasi DPT dua kali
+* Isu tidak tercakup dalam komunikasi (_missing content_)
+* Komunikasi tidak tepat sasaran (_content clarify_)
 
 #### Prioritas Rendah
 
+* Keharusan konfirmasi DPT dua kali
 * Tanpa formulir hanya boleh memilih setelah jam 5 sore
 * Pemilih lewat surat tidak menerima konfirmasi surat suara sudah diterima
 * Persentase suara tidak sah yang diterima melalui surat 6.5%
@@ -112,7 +113,7 @@ Tema ini mencakup:
 Tema ini mencakup:
 
 * Peningkatan interaksi online dibandingkan manual, misalnya kewajiban untuk mengirimkan undangan dengan tandatangan tinta bisa dipertimbangkan lagi.
-* Analisis biaya manfaat, misalnya pengiriman undangan dengan pos biasa (lebih murah) menyebabkan panitia tidak mendapat masukan apabila ada surat yang tidak mencapai tujuan. Pos tercatat, walaupun lebih mahal, akan lebih optimal hasilnya.
+* Analisis biaya vs manfaat, misalnya pengiriman undangan dengan pos biasa (lebih murah) menyebabkan panitia tidak mendapat masukan apabila ada surat yang tidak mencapai tujuan. Pos tercatat, walaupun lebih mahal, akan lebih optimal hasilnya.
 * Masukan kepada KPU untuk penyelenggaraan tahun 2019, terutama mencakup masalah anggaran dan waktu untuk perencanaan.
 
 
