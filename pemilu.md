@@ -90,9 +90,9 @@ Diskusi menggunakan metode diagram Ishikawa (_fishbone diagram_) yang diperkenal
 ![image cannot be rendered]({{ site.baseurl }}/images/rootcause_summary.PNG)
 
 ### Alternatif Solusi (Solution)
-Diskusi kerja ketiga berlangsung pada 28 Oktober 2014 membahas alternatif solusi untuk bisa mengatasi mayoritas akar masalah di Gam. Gambar di bawah merupakan hasil diskusi yang bisa dikelompokkan dalam enam kategori solusi.
+Diskusi kerja ketiga berlangsung pada 28 Oktober 2014 membahas alternatif solusi untuk bisa mengatasi mayoritas akar masalah. Gambar di bawah merupakan hasil diskusi yang bisa dikelompokkan dalam enam kategori solusi.
 
-Tim ImprovId merangkum alternatif solusi menjadi tiga tema solusi dalam matriks solusi.
+Tim ImprovId merangkum alternatif solusi menjadi tiga tema solusi dalam matriks prioritas.
 ![image cannot be rendered]({{ site.baseurl }}/images/potensi_solusi.png)
 
 #### Tema pertama adalah perbaikan drastis dalam pengelolaan data WNI di Perth. 
