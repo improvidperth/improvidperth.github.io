@@ -11,33 +11,19 @@ permalink: /projects/
 ![image cannot be rendered]({{ site.baseurl }}/images/all_workshop.jpg)
 
 ### Latar Belakang
-Identifikasi _pain points_ dari pemilih Pemilu 2014 di Perth, identifikasi akar masalah, dan potensi solusi terhadap masalah tersebut.
+Identifikasi _pain points_ dari penyelenggaraan Pemilu 2014 di Perth, identifikasi akar masalah, dan potensi solusi terhadap masalah tersebut.
 
 Kolaborasi antara tim ImprovId, KJRI Perth, dan mantan panitia Pemilu Perth 2014 (PPLN, KPPSLN, Panwaslu). Proses analisis berlangsung dari Juli 2014 sampai Desember 2014.
 
 ### Rangkuman Kegiatan
-Apresiasi
-Kegiatan ini membuktikan dukungan dari KJRI Perth untuk memfasilitasi proses diskusi mencari peluang perbaikan proses penyelenggaraan pemilu di Perth.
-Kegiatan ini membuktikan kolaborasi masyarakat dan KJRI Perth sebagai penyelenggara layanan publik bisa diwujudkan.
-
-
-### Hasil Kegiatan Analisis
 * Wawancara 26 responden pemilih di Perth 
-* Identifikasi 9 isu utama (pain points) yang dialami WNI di Perth selama penyelenggaraan pemilu Perth 2014.
-* Penetapan 1 issue utama: “calon pemilih tidak menerima undangan Pemilu”
-* Identifikasi 11 akar masalah 
-* Identifikasi 3 potential solusi berdasarkan akar masalah yang telah ditemukan:
+* Identifikasi 9 isu utama (_pain points_) yang dialami WNI di Perth selama penyelenggaraan pemilu Perth 2014.
+* Identifikasi 11 akar masalah yang diungkapkan oleh tim penyelenggara pemilu Perth 2014
+* _Common pain points_ adalah tidak adanya data warga di Perth yang handal
+* Identifikasi 3 potential solusi berdasarkan akar masalah:
   - Perbaikan pengelolaan data WNI di Perth
   - Perbaikan interaksi dua arah antara masyarakat dan KJRI Perth
   - Dokumentasi best practice
-* Identifikasi manfaat untuk tim konsuler KJRI apabila potensi solusi diimplementasikan
-* Identifikasi manfaat untuk simpul masyarakat di Perth apabila potensi solusi diimplementasikan
-
-### Kesimpulan
-* Proses analisis penyelenggaraan pemilu 2014 di Perth sudah berhasil menghasilkan potensi solusi yang apabila diimplementasikan dapat membantu penyelenggara Pemilu (KJRI dan PPLN) ke depan menjadi lebih efisien.
-* Implementasi pembuatan sitem pendataan warga di Perth akan dilakukan oleh tim terpisah yang memiliki keahlian di bidang teknologi informasi. Implementasi sebaiknya dilakukan dengan metode ramping (lean) untuk memastikan produk dan sistem yang dibangun bisa digunakan.
-* Masih ada 7 _pain points_ dari warga pemilih yang belum dibahas secara mendalam. Diharapkan beberapa isu ini dapat dibahas dan diidentifikasi solusinya di pertemuan selanjutnya di tahun 2015.
-
 
 #### Untuk cerita lebih lengkap bisa dibaca [di sini.](http://improvidperth.github.io/pemilu/)
 
