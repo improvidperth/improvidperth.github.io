@@ -117,3 +117,4 @@ Tema ini mencakup:
 * Masukan kepada KPU untuk penyelenggaraan tahun 2019, terutama mencakup masalah anggaran dan waktu untuk perencanaan.
 
 
+Berkas lengkap kegiatan analisis bisa didapat [di sini.](http://improvidperth.github.io/pemilu-artifacts/)
