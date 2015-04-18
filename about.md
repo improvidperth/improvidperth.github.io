@@ -31,5 +31,5 @@ Tim improvId bukanlah sumber solusi. Fungsi utama tim ImprovId adalah memfasilit
 
 Proses yang dipilih harus spesifik dengan pemakai proses dan perlaksana proses yang jelas.
 
-## Hubungi Kami
-Apabila anda profesional _process improvement_ yang tertarik dengan misi ImprovId atau penyelenggara pelayanan publik yang tertarik untuk berkolaborasi dengan tim ImprovId, hubungi kami di [improvidperth@gmail.com](mailto:improvidperth@gmail.com) atau melalui forum diskusi di bawah ini.
+## Kolaborasi bersama Kami
+Apabila anda profesional _process improvement_ yang tertarik dengan misi ImprovId atau penyelenggara pelayanan publik yang tertarik untuk berkolaborasi dengan tim ImprovId, hubungi kami di [connect@improvid.org](mailto:connect@improvid.org) atau melalui forum diskusi di bawah ini.
