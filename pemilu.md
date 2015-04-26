@@ -56,7 +56,7 @@ Tiga pertanyaan utama:
 * Kapan interaksi terakhir responden dalam Pemilu 2014 di Perth
 * Semua proses di antara kedua waktu di atas.
 
-Hasil wawancara dapat dilihat [di sini (dropbox link).](https://www.dropbox.com/sh/gven1oy4o5qhrih/AACeVXYWbqQzCOasjbUBcEbFa?dl=0) (nama responden tidak ditampilkan).
+Hasil wawancara dapat dilihat [di sini](http://improvidperth.github.io/pemilu-artifacts/).
 
 
 ### Analisis _Pain Points_ dengan Penyelenggara Pemilu (Voice of Producer)
